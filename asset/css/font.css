@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Regular;
+    src: url(font/SF-Pro-Rounded-Regular.otf);
+}
+@font-face {
+    font-family: Bold;
+    src: url(font/SF-Pro-Rounded-Bold.otf);
+}
+
+@font-face {
+    font-family: Light;
+    src: url(font/SF-Pro-Rounded-Light.otf);
+}
+.font_header {
+    font-family: Bold;
+    font-size: 16px;
+    color: #69a6f8;
+}
+
+.font_headerjr {
+    font-family: Regular;
+    font-size: 16px;
+    color: #69a6f8;
+}
+
+.font_headere {
+    font-family: Bold;
+    font-size: 16px;
+    color: #fff;
+}
+
+.font_body {
+    font-family: Regular;
+    font-size: 16px;
+    color: #fff;
+}
+
+.font_tag {
+    opacity: 60%;
+    font-family: Light;
+    font-size: 12px;
+    color: #fff;
+}
+
