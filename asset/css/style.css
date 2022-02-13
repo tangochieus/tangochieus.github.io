@@ -184,8 +184,12 @@ img#hello_image {
     border-radius: 15px;
 }
 
-.bgt {
-    background:  rgba(105, 166, 248, 0.0);
+.about tr td div div table tr td{
+    background-color: rgba(105, 166, 248, 0.05);
+}
+
+.about tr td div div table{
+    background-color: rgba(105, 166, 248, 0.00);
 }
 
 /* work experiance */
